@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13GoTo", "P13GoTo\P13GoTo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nim", "Nim\Nim.csproj", "{F5AE6D69-C2A0-4B2A-B733-3763AC193D89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_1Random_Coordinates", "P12_1Random_Coordinates\P12_1Random_Coordinates.csproj", "{68AB2D39-0B85-4AC4-896D-7EC3481716DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{F5AE6D69-C2A0-4B2A-B733-3763AC193D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5AE6D69-C2A0-4B2A-B733-3763AC193D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5AE6D69-C2A0-4B2A-B733-3763AC193D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AB2D39-0B85-4AC4-896D-7EC3481716DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AB2D39-0B85-4AC4-896D-7EC3481716DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AB2D39-0B85-4AC4-896D-7EC3481716DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AB2D39-0B85-4AC4-896D-7EC3481716DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
