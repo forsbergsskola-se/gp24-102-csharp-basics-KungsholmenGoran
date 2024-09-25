@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_1Random_Coordinates", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12_4Random_Chance", "P12_4Random_Chance\P12_4Random_Chance.csproj", "{A5EE0B2A-5765-41F3-AD08-06708C5C189A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13_3Pattern", "P13_3Pattern\P13_3Pattern.csproj", "{CEC1A34C-CDC0-4F8A-B58B-4C838313BCF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{A5EE0B2A-5765-41F3-AD08-06708C5C189A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5EE0B2A-5765-41F3-AD08-06708C5C189A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5EE0B2A-5765-41F3-AD08-06708C5C189A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC1A34C-CDC0-4F8A-B58B-4C838313BCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC1A34C-CDC0-4F8A-B58B-4C838313BCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC1A34C-CDC0-4F8A-B58B-4C838313BCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC1A34C-CDC0-4F8A-B58B-4C838313BCF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
